@@ -1,13 +1,18 @@
-## Installation
+# Savage Demo  (Login)
+-Learning how an simple CRUD APP works and user authentication 
 
-1. Clone repo
-2. run `npm install`
+**Link to project:** TBA
 
-## Usage
+## How It's Made:
 
-1. run `node server.js`
-2. Navigate to `localhost:8080`
+**Tech used:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
 
-## Credit
+This is the base code that provide and had to figure out how to make sure I was just showing messages made by the login user. 
 
-Modified from Scotch.io's auth tutorial
+## Examples:
+TBA
+
+## How To Run it:
+
+1. Navigate to `localhost:8880`
+
